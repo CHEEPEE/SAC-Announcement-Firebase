@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/keji/.android/build-cache/34d0b9521c02d7e961791a3ff40b2aab71e7f490/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/keji/Downloads/SacAnnoncementAPp/app/build/intermediates/pre-dexed/debug/classes_aa89cca61e22ed18a8cb3e00b2ad234aff08cdb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/keji/.android/build-cache/a30eaebdedca724663897c983e9ab096bd39eb7c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/keji/Downloads/SacAnnoncementAPp/app/build/intermediates/pre-dexed/debug/classes_f6d7512f4c140c984175f720c5edd6a77b9a19d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/keji/.android/build-cache/48f75d8342cb8bd9d5adb5f9bb105ac795c4b665/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/keji/Downloads/SacAnnoncementAPp/app/build/intermediates/pre-dexed/debug/classes_89e7703d13a9ff7580d160c3d18dcde1d8c1c66e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/keji/.android/build-cache/5a28bc160c5f09b82f5bf96034129126f930b050/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/keji/Downloads/SacAnnoncementAPp/app/build/intermediates/pre-dexed/debug/classes_919cf60ee2351e3d994ed5759dd41ad89df0c437.jar" />
+    </item>
+
+</items>
